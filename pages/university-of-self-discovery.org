@@ -1,0 +1,38 @@
+#+BEGIN_COMMENT
+.. title: University of Self Discovery
+.. slug: university-of-self-discovery
+.. date: 2018-06-23 15:07:49 UTC
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+#+END_COMMENT
+#+TITLE: Writing Papers
+#+OPTIONS: toc:nil num:nil
+* How to Write Papers in Org-Mode
+- bulleted
+- list
+- items
+
+* Using cbible
+  #+BEGIN_EXAMPLE
+ וַיַּעַן מֹשֶׁה וַיֹּאמֶר וְהֵן לֹֽא־יַאֲמִינוּ לִי וְלֹא     יִשְׁמְעוּ בְּקֹלִי כִּי יֹֽאמְרוּ לֹֽא־נִרְאָה אֵלֶיךָ         יְהוָֽה׃ וַיֹּאמֶר אֵלָיו יְהוָה [מַזֶּה כ] (מַה־ ק) (זֶּה ק)       בְיָדֶךָ וַיֹּאמֶר מַטֶּֽה׃ וַיֹּאמֶר הַשְׁלִיכֵהוּ אַרְצָה וַיַּשְׁלִיכֵהוּ אַרְצָה וַיְהִי לְנָחָשׁ וַיָּנָס מֹשֶׁה     מִפָּנָֽיו׃ וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה שְׁלַח יָֽדְךָ           וֶאֱחֹז בִּזְנָבֹו וַיִּשְׁלַח יָדֹו וַיַּחֲזֶק בֹּו               וַיְהִי לְמַטֶּה בְּכַפֹּֽו׃
+Exodus 4:1-Exodus 4:4
+  #+END_EXAMPLE
+
+  ַלסדשׁהסשׁנדשׂ
+
+test
+ℵℶℷ
+this worked?
+\alpha \beta \gamma
+\aleph \beth \gimel
+
+
+Some Hebrew
+
+ מִזְּקֵנִים אֶתְבֹּונָן כִּי פִקּוּדֶיךָ נָצָֽרְתִּי׃
+
+
+Write your page here.
